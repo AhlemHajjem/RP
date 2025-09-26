@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/AhlemHajjem/RP/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/AhlemHajjem/RP/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of RP is to …
