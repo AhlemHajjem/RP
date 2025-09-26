@@ -5,3 +5,9 @@ inst/doc
 .httr-oauth
 .DS_Store
 .quarto
+*.Rproj.user
+.Ruserdata
+.vscode
+.env
+RP_scaffold_phased.Rmd
+RP_setup_script.Rmd
