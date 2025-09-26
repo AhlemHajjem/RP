@@ -8,6 +8,8 @@
 [![R-CMD-check](https://github.com/AhlemHajjem/RP/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/AhlemHajjem/RP/actions/workflows/R-CMD-check.yaml)
 [![Codecov test
 coverage](https://codecov.io/gh/AhlemHajjem/RP/graph/badge.svg)](https://app.codecov.io/gh/AhlemHajjem/RP)
+[![Lifecycle:
+stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://lifecycle.r-lib.org/articles/stages.html#stable)
 <!-- badges: end -->
 
 The goal of RP is to …
