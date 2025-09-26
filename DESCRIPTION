@@ -1,0 +1,20 @@
+Package: RP
+Title: Generalized Mixed effects regression tree and forest
+Version: 0.0.0.9000
+Authors@R: 
+    person("Ahlem HAJJEM", , , "hajjem.ahlem@uqam.ca", role = c("aut", "cre"),
+           comment = c(ORCID = "0000-0001-5951-1321"))
+Description: A set of R functions for fitting mixed-effects regression
+    tree and random forest models.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Language: en-US
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.3
+Suggests: 
+    knitr,
+    rmarkdown,
+    spelling,
+    testthat (>= 3.0.0)
+Config/testthat/edition: 3
+VignetteBuilder: knitr
